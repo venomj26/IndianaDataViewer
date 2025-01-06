@@ -7,13 +7,12 @@ This graph plots the difference between the Indiana and county average yields fo
 
 
 
-Another way to visualize the Yield data comparison of each county is by using the line plots. The corn yield difference between counties with different soil taxonomy from 2000 to 2020 is shown in the graphs presented below. An important aspect of the analysis here is the categorization of each soil taxonomy is done using its dominant drainage class. Each figure shows the variation in drainage class Well drained, Moderately Well drained, Somewhat excessively drained, Somewhat poorly drained, Poorly drained, and Very poorly drained soils. Within each figure, the lines represent the yield obtained from a unique soil taxonomy (dominant soil taxonomy in the county) from 2000 till 2020. 
+Another way to visualize the Yield data comparison of each county is by using the line plots. The corn yield difference between counties with different soil taxonomy from 2000 to 2020 is shown in the graphs presented below. An important aspect of the analysis here is the categorization of each soil taxonomy is done using its dominant drainage class. Each figure shows the variation in drainage class Well drained, Moderately Well drained, Somewhat poorly drained, Poorly drained, and Very poorly drained soils. Within each figure, the lines represent the yield obtained from a unique soil taxonomy (dominant soil taxonomy in the county) from 2000 till 2020. 
 
 The interesting fact here is that the effect of the 2012 drought is maximized in well-drained soils.
 
 ![alt text](plots/Lineplot_indianaCountywise_dcl_yield2020_WD.png)
 ![alt text](plots/Lineplot_indianaCountywise_dcl_yield2020_MWD.png)
-![alt text](plots/Lineplot_indianaCountywise_dcl_yield2020_SED.png)
 ![alt text](plots/Lineplot_indianaCountywise_dcl_yield2020_SPD.png)
 ![alt text](plots/Lineplot_indianaCountywise_dcl_yield2020_VPD.png)
 ![alt text](plots/Lineplot_indianaCountywise_dcl_yield2020_PD.png)
