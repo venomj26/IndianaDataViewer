@@ -17,3 +17,8 @@ The interesting fact here is that the effect of the 2012 drought is maximized in
 ![alt text](plots/Lineplot_indianaCountywise_dcl_yield2020_SPD.png)
 ![alt text](plots/Lineplot_indianaCountywise_dcl_yield2020_VPD.png)
 ![alt text](plots/Lineplot_indianaCountywise_dcl_yield2020_PD.png)
+
+
+
+A scatter plot can also be used to visualize these results and embed it on websites.
+![alt text](plots/Scatterplot_indianaCountywise_dcl_yield2020.png)
